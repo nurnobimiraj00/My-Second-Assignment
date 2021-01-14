@@ -4,7 +4,7 @@
     position: relative;
     right: 200px;
 }
-    .first-likha{
+.first-likha{
     
     position: relative;
     top: 150px;
@@ -17,7 +17,10 @@
     width: 100%;
 }
 .shop-img{
-    width:100%;
+    width:750px;
+    margin-bottom: 100px;
+    position: relative;
+    left: 40px;
 
 }
 .three-box{
