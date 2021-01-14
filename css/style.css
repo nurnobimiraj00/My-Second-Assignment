@@ -1,0 +1,77 @@
+
+.first-img img{
+    width:600px;
+    position: relative;
+    right: 200px;
+}
+    .first-likha{
+    
+    position: relative;
+    top: 150px;
+    left: 30px;
+}
+.last-part{
+    float: left;
+}
+.beside-box-img{
+    width: 100%;
+}
+.shop-img{
+    width:100%;
+
+}
+.three-box{
+    width: 100%;
+}
+.choto-div{
+    height: 100px;
+    width: 600px;
+    
+}
+.tindiv{
+    position: relative;
+    top:200px;
+}
+.ghartera-img{
+    width: 70px
+}
+.icon{
+    width: 25px;
+}
+.btn-btn{
+    margin: 10px;
+    padding: 18px;
+    color: white;
+    background-color: rgb(38, 38, 255);
+    border-radius: 10px;
+    border: none;
+}
+.btn-btn-2{
+    margin: 10px 5px;
+    padding: 12px 10px;
+    color: white;
+    background-color: rgb(38, 38, 255);
+    border-radius: 10px;
+    border: none;
+}
+.img-back{
+    background-color: rgba(194, 194, 194, 0.5);
+    border-radius: 10px;
+    
+    
+}
+.r-ju-div{
+    padding: 15px;
+}
+.footer-bg{
+    background-color: white;
+}
+ul li{
+    list-style: none;
+    float: left;
+    margin: 10px;
+    padding: 10px 10px;
+   font: 800;
+   color: darkblue;
+    
+}
