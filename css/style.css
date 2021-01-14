@@ -76,5 +76,8 @@ ul li{
     padding: 10px 10px;
    font: 800;
    color: darkblue;
-    
+   
+}
+ul li a{
+    text-decoration: none;
 }
